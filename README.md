@@ -12,5 +12,9 @@ Orientador da disciplina Eduardo Manuel de Freitas Jorge (UNEB)
 - Experimento de reconhecimento de gestos
 
 ## Links relacionados ao exoerimento do artigo
-[Repositório Git analisado no artigo]: https://www.github.com/uvipen/AirGesture/tree/master
-[Video testando a solução do Git]: https://www.youtube.com/watch?v=jrw74-wrSEY
+- [Repositório Git analisado no artigo](https://www.github.com/uvipen/AirGesture/tree/master)
+- Vídeo do experimento
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=jrw74-wrSEY
+" target="_blank"><img src="http://img.youtube.com/vi/jrw74-wrSEY/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="640" height="360" border="0" /></a>
